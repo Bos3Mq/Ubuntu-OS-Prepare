@@ -82,8 +82,8 @@ which of the above packages to install.
 
 
 
-                                                INSTRUCTIONS
-                                              ================
+INSTRUCTIONS
+------------                                           
 
 
 
@@ -105,8 +105,8 @@ $ chmod u+x os-prepare.sh
 
 
 
-                                                  BUGS
-                                              ============
+BUGS
+------
 
 This script is version 1.0, it has been tested on all supported Ubuntu versions
 mentioned previously but not tested any any others such as 11.10 and lower. I am
@@ -121,8 +121,9 @@ script feel free to let me know. You can reach me on my Github account at:
 
 
 
-                                                lICENSING
-                                             ===============
+lICENSING
+----------
+
 
 This script free to use and share, feel free to distribute it to as many people you wish,
 however please do not remove any sections that credit the author. This script is opensource
@@ -136,8 +137,8 @@ and open to the public for modification. Please enjoy, share and give me some fe
 
 
 
-                                     ==============
-                                       ~ Bos3Mq ~ 
+                                                                ==============
+                                                                  ~ Bos3Mq ~ 
                                      
 
 
