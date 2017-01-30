@@ -18,11 +18,9 @@
 #=====================================#
 
 
-echo "
-written by - 
-
+echo " 
  =========================
- ||     ~ Bos3Mq ~      ||
+ ||  Ubuntu OS Prepare  ||
  =========================
 "
 echo "[*]This script can install a variety of popular packages, add
