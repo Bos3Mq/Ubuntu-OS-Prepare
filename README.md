@@ -125,7 +125,7 @@ lICENSING
 ----------
 
 
-This script free to use and share, feel free to distribute it to as many people you wish,
+This script is free to use and share, feel free to distribute it to as many people you wish,
 however please do not remove any sections that credit the author. This script is opensource
 and open to the public for modification. Please enjoy, share and give me some feedback any time.
 
