@@ -85,8 +85,6 @@ which of the above packages to install.
 INSTRUCTIONS
 ------------                                           
 
-
-
 To run the script simply navigate to the folder it's in from a terminal 
 e.g. (If it's in your documents folder); 
 
@@ -121,7 +119,7 @@ script feel free to let me know. You can reach me on my Github account at:
 
 
 
-lICENSING
+lICENCING
 ----------
 
 
