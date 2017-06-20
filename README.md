@@ -119,7 +119,7 @@ script feel free to let me know. You can reach me on my Github account at:
 
 
 
-lICENCING
+lICENSING
 ----------
 
 
